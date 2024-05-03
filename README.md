@@ -20,3 +20,7 @@ I absolutely love coding and learning new things in general.
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnisTigrini&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnisTigrini&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisTigrini&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
