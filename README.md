@@ -1,5 +1,5 @@
 ### Hi there 👋: 
-I am a spassionate software developer that works in the industry. More precisely ,I work in a company that proposes a mobile device management solution (MDM).
+I am a passionate software developer that works in the industry. More precisely ,I work in a company that proposes a mobile device management solution (MDM).
 I absolutely love coding and learning new things in general.
 
 ### Programming Languages:
