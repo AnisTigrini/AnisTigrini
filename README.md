@@ -1,6 +1,5 @@
 ### Hi there 👋: 
-I am a passionate software developer that works in the industry. More precisely, I work in a company that proposes a mobile device management solution (MDM).
-I absolutely love coding and learning new things in general.
+Hi there 👋
 
 ### Programming Languages:
 | Python3 | C | JS / TS | C# |
